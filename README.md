@@ -196,5 +196,4 @@ python .\proyecto_dappia.py
 
 Proyecto DAPPIA — Desarrollo con IA  
 Avance 2: Prueba de Concepto RAG  
-Tecnologías: Python · ChromaDB · Google Gemini 2.5 Flash
-Estudiante Salim Ferez Mendez - Programa de Ingeniería de Sistemas.
+Tecnologías: Python · ChromaDB · Google Gemini 2.5 Flash Estudiante Salim Ferez Mendez - Programa de Ingeniería de Sistemas.
