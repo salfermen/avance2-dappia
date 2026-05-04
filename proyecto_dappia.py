@@ -1,7 +1,7 @@
 """
 ============================================================
   PROYECTO DAPPIA — AVANCE 2: PRUEBA DE CONCEPTO RAG
-  Autor: Equipo Dappia
+  Autor: Salim Ferez Mendez
   Descripción: Sistema RAG con ChromaDB + Gemini 2.5 Flash
 ============================================================
 """
