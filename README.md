@@ -192,8 +192,9 @@ python .\proyecto_dappia.py
 
 ---
 
-## 👥 Equipo
+## DESARROLLO
 
-Proyecto Dappia — Desarrollo con IA  
+Proyecto DAPPIA — Desarrollo con IA  
 Avance 2: Prueba de Concepto RAG  
 Tecnologías: Python · ChromaDB · Google Gemini 2.5 Flash
+Estudiante Salim Ferez Mendez - Programa de Ingeniería de Sistemas.
